@@ -1,27 +1,12 @@
-### MERN Stack CRUD with JWT
 
-This is a web application project using React, with a Nodejs Backend using Express and Mongodb as Database (MERN Stack)
 
-### Installation with docker-compose (Recommended)
+# Cloud Project _ Aden Amar & Fatima Mazhar
 
-```sh
-docker-compose up -d
-npm run dev
-```
 
-### Deployment
 
-```sh
-git clone https://github.com/FaztWeb/mern-tasks-auth
-cd mern-tasks-auth
-npm i
-npm run build
-npm start
-```
+## Description
+This is a cloud-native web application that uses AWS infrastructure to deploy a React frontend and a Node.js backend.
 
-> You need to have a Mongodb database running
-
-# Cloud Project — Aden Amar & Fatima Mazhar
 
 ## Features
 - User Authentication (JWT)
@@ -38,3 +23,4 @@ npm start
 ## Authors
 - Aden Amar
 - Fatima Mazhar
+
